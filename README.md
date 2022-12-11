@@ -1,1 +1,6 @@
-# Python_praktich_7
+# Python_praktich_7![1](https://user-images.githubusercontent.com/115313324/206899036-1bd4870a-e5a4-4da7-8641-d4587d6d3362.PNG)
+![2](https://user-images.githubusercontent.com/115313324/206899037-2799f52f-706d-41ff-af72-17068345c48a.PNG)
+![3](https://user-images.githubusercontent.com/115313324/206899038-cc9c7a99-a444-4e66-828b-f3a59fd56e09.PNG)
+![4](https://user-images.githubusercontent.com/115313324/206899040-d544c6c1-55a7-4165-b9b8-1b494b2c9016.PNG)
+![5](https://user-images.githubusercontent.com/115313324/206899041-bf80625c-f351-40bb-aa45-105b3ae06393.PNG)
+![6](https://user-images.githubusercontent.com/115313324/206899043-43ee8119-a78f-49c2-bb27-2286ea52e8d7.PNG)
